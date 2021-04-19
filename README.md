@@ -59,7 +59,7 @@ System-wide dependencies:
 
 Clone git repository:
 ```sh
-https://github.com/statcio/questionnarie.git
+https://github.com/statcio/survey.git
 ```
 Launch docker CLI command:
 ```sh
